@@ -116,6 +116,6 @@ dict for {opt opt_args} $opts_specified {
 # Validation of relevant script option semantics is complete.
 
 # Exit Modelsim.
-#exit
+exit
 
 ################################ END OF SCRIPT BODY #############################
